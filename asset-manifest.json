@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/food-bill/static/css/main.f38a3276.css",
+    "main.js": "/food-bill/static/js/main.823d7000.js",
+    "index.html": "/food-bill/index.html",
+    "main.f38a3276.css.map": "/food-bill/static/css/main.f38a3276.css.map",
+    "main.823d7000.js.map": "/food-bill/static/js/main.823d7000.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f38a3276.css",
+    "static/js/main.823d7000.js"
+  ]
+}
