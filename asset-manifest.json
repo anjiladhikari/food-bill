@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/food-bill/static/css/main.f38a3276.css",
-    "main.js": "/food-bill/static/js/main.823d7000.js",
+    "main.js": "/food-bill/static/js/main.b1cf155f.js",
     "index.html": "/food-bill/index.html",
     "main.f38a3276.css.map": "/food-bill/static/css/main.f38a3276.css.map",
-    "main.823d7000.js.map": "/food-bill/static/js/main.823d7000.js.map"
+    "main.b1cf155f.js.map": "/food-bill/static/js/main.b1cf155f.js.map"
   },
   "entrypoints": [
     "static/css/main.f38a3276.css",
-    "static/js/main.823d7000.js"
+    "static/js/main.b1cf155f.js"
   ]
 }
